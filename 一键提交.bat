@@ -2,7 +2,7 @@
 chcp 65001 >nul
 title GitHub一键提交工具
 echo ========================================
-echo          GitHub 一键提交工具
+echo          GitHub一键提交工具
 echo ========================================
 echo.
 echo 正在切换到项目目录...
@@ -38,5 +38,5 @@ echo.
 echo ========================================
 echo ✅ 提交成功！代码已同步到GitHub仓库
 echo ========================================
-timeout /t 2 /nobreak >nul
+timeout /t 1 /nobreak >nul
 exit
